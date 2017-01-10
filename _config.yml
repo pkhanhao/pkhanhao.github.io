@@ -18,7 +18,7 @@ title: pkhanhao
 description: > # this means to ignore newlines until "baseurl:"
   © 2017 pkhanhao. Powered by Jekyll + Minima.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://pkhanhao.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: pkhanhao
 github_username:  pkhanhao
 disqus:

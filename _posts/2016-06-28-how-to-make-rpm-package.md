@@ -79,11 +79,11 @@ rpmdev-setuptree 命令同时还会创建用于设置各种选项的 ~/.rpmmacro
 
 rpmbuild 命令读取 .spec 文件执行如下的步骤和阶段进行 rpm 包构建，表中以 % 开头的语句为预定义宏。
 
-![build-phase](http://oiz97v6wa.bkt.clouddn.com/makerpm/build-phase.png)
+![build-phase](http://cdn.pkhanhao.top/makerpm/build-phase.png)
 
 上表中宏代码对应的目录关系如下：
 
-![directory-role](http://oiz97v6wa.bkt.clouddn.com/makerpm/directory-role.png)
+![directory-role](http://cdn.pkhanhao.top/makerpm/directory-role.png)
 
 ## 三、打包示例
 
